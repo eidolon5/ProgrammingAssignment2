@@ -4,7 +4,7 @@
 # cacheSolve: computes the inverse of the object from makeCacheMatrix. If the 
 # inverse was previously computed, cacheSolve display the message "getting cached
 # data" and will skip the computation. If the inverse was not previously computed,
-# cacheSolve will calculate the inverse.
+# cacheSolve will calculate the inverse. That should be it.
 
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
